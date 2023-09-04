@@ -1,4 +1,4 @@
-<h1 align="center" > Code Examples </h1>
+<h1 align="center" > Exemplos de código </h1>
 
 # Objetivo
 
