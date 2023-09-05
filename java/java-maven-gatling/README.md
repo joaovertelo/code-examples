@@ -2,4 +2,4 @@
 
 Repositório com exemplo para executar o Gatling a partir de um projeto Java utilizando o plugin para maven.
 
-[Spring](https://github.com/joaovertelo/java-maven-gatling-example)
+[Gatling Maven Plugin](https://github.com/joaovertelo/java-maven-gatling-example)
