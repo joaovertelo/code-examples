@@ -8,6 +8,6 @@ projetos implementados para meu [canal no youtube](https://www.youtube.com/@Deve
 | Tema                | Tecnologias                                               | Readme                           | Vídeo                                               |
 |---------------------|-----------------------------------------------------------|----------------------------------|-----------------------------------------------------| 
 | Rinha de Backend    | Java, Spring, Micronaut, Nginx, Docker, Redis, PostgreSQL | [link](java/rinha-backend)       | [link](https://www.youtube.com/watch?v=2M-mYZD05S0) |
-| Spring vs Micronaut | Java, Spring, Micronaut, API REST, JPA                    | [link](java/spring-vs-micronaut) |                                                     |
+| Spring vs Micronaut | Java, Spring, Micronaut, API REST, JPA                    | [link](java/spring-vs-micronaut) | [link[(https://youtu.be/t3ihqgaD7d0)                |
 | Gatling Maven       | Java, Gatling, Maven             | [link](java/java-maven-gatling)  | [link](https://youtu.be/gkl1ZTTtff4)                                         |
 | Spring Webflux      | Java, Spring Webflux, JPA, R2DBC                          | [link](java/spring-webflux)      |                                                     |
