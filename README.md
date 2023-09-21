@@ -12,3 +12,4 @@ projetos implementados para meu [canal no youtube](https://www.youtube.com/@Deve
 | Gatling Maven       | Java, Gatling, Maven                                      | [Code →](java/java-maven-gatling)  | [Vídeo →](https://youtu.be/gkl1ZTTtff4)                |
 | Spring Webflux      | Java, Spring Webflux, JPA, R2DBC                          | [Code →](java/spring-webflux)      |                                                     |
 | Spring Security     | Java, Spring Security                                     | [Code →](java/spring-security)     |                                                     |
+| Spring Rest Client  | Java, Spring Rest Client                                  | [Code →](java/spring-rest-client)  |                                                     |
